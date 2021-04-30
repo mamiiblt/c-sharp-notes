@@ -21,3 +21,6 @@
 > Her hafta 1 - 2 adet yüklenen notlar ile hızlıca C# temellerini öğren
 >
 > © 2021 Maces Games STUDIOS™ Tüm Hakları Saklıdır (Apache 2.0 Lisansına dayanarak.)
+
+# License
+> http://mqsftp.gq/license/
